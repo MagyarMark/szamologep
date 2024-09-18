@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -20,6 +21,31 @@ namespace CalculatorMini
         {
             InitializeComponent();
             labelDisplay.Text = "0";
+            RoundButtonCorners(btn0, 20);
+            RoundButtonCorners(btn1, 20);
+            RoundButtonCorners(btn2, 20);
+            RoundButtonCorners(btn3, 20);
+            RoundButtonCorners(btn4, 20);
+            RoundButtonCorners(btn5, 20);
+            RoundButtonCorners(btn6, 20);
+            RoundButtonCorners(btn7, 20);
+            RoundButtonCorners(btn8, 20);
+            RoundButtonCorners(btn9, 20);
+
+        }
+        private void RoundButtonCorners(Button button, int radius)
+        {
+            
+            Rectangle rect = new Rectangle(0, 0, button.Width, button.Height); //terület 
+
+            
+            GraphicsPath path = new GraphicsPath();
+            path.AddArc(rect.X, rect.Y, radius, radius, 180, 90);
+            path.AddArc(rect.X + rect.Width - radius, rect.Y, radius, radius, 270, 90);
+            path.AddArc(rect.X + rect.Width - radius, rect.Y + rect.Height - radius, radius, radius, 0, 90);
+            path.AddArc(rect.X, rect.Y + rect.Height - radius, radius, radius, 90, 90);
+            path.CloseAllFigures();//sarok lekerekítés
+            button.Region = new Region(path);//gomb sarokká tétele
         }
 
         private void button1_Click(object sender, EventArgs e)

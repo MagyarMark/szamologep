@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\",
+  "WorkspaceRootPath": "C:\\Users\\markm\\Documents\\GitHub\\szamologep\\CalculatorMini\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|c:\\users\\markm\\documents\\github\\szamologep\\calculatormini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|c:\\users\\kiralybence\\desktop\\20240912_kiralybence\\calculatormini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|C:\\Users\\markm\\Documents\\GitHub\\szamologep\\CalculatorMini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A42DBB5D-CCB4-4FA7-8635-34204C168472}|CalculatorMini.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,39 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\markm\\Documents\\GitHub\\szamologep\\CalculatorMini\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.cs",
+              "ToolTip": "C:\\Users\\markm\\Documents\\GitHub\\szamologep\\CalculatorMini\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAcwEIAAAAJAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T10:22:28.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\markm\\Documents\\GitHub\\szamologep\\CalculatorMini\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\markm\\Documents\\GitHub\\szamologep\\CalculatorMini\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T10:11:03.344Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\kiralybence\\Desktop\\20240912_KiralyBence\\CalculatorMini\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:09:52.099Z",
-              "EditorCaption": ""
             }
           ]
         }
