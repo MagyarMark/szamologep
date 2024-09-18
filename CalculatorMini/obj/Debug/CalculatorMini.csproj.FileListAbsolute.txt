@@ -1,0 +1,10 @@
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\bin\Debug\CalculatorMini.exe.config
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\bin\Debug\CalculatorMini.exe
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\bin\Debug\CalculatorMini.pdb
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.csproj.AssemblyReference.cache
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.Form1.resources
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.Properties.Resources.resources
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.csproj.GenerateResource.cache
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.csproj.CoreCompileInputs.cache
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.exe
+C:\Users\kiralybence\Desktop\20240912_KiralyBence\CalculatorMini\obj\Debug\CalculatorMini.pdb
