@@ -556,7 +556,7 @@
     <value>16</value>
   </data>
   <data name="btntimes.Text" xml:space="preserve">
-    <value>*</value>
+    <value>×</value>
   </data>
   <data name="&gt;&gt;btntimes.Name" xml:space="preserve">
     <value>btntimes</value>

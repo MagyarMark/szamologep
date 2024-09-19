@@ -75,7 +75,7 @@
             // 
             // btnequal
             // 
-            this.btnequal.BackColor = System.Drawing.Color.Gold;
+            this.btnequal.BackColor = System.Drawing.Color.Orange;
             this.btnequal.FlatAppearance.BorderSize = 0;
             resources.ApplyResources(this.btnequal, "btnequal");
             this.btnequal.ForeColor = System.Drawing.Color.White;
@@ -104,7 +104,7 @@
             // 
             // btnplus
             // 
-            this.btnplus.BackColor = System.Drawing.Color.Gold;
+            this.btnplus.BackColor = System.Drawing.Color.Orange;
             this.btnplus.FlatAppearance.BorderSize = 0;
             resources.ApplyResources(this.btnplus, "btnplus");
             this.btnplus.ForeColor = System.Drawing.Color.White;
@@ -163,7 +163,7 @@
             // 
             // btnminus
             // 
-            this.btnminus.BackColor = System.Drawing.Color.Gold;
+            this.btnminus.BackColor = System.Drawing.Color.Orange;
             this.btnminus.FlatAppearance.BorderSize = 0;
             resources.ApplyResources(this.btnminus, "btnminus");
             this.btnminus.ForeColor = System.Drawing.Color.White;
@@ -192,7 +192,7 @@
             // 
             // btntimes
             // 
-            this.btntimes.BackColor = System.Drawing.Color.Gold;
+            this.btntimes.BackColor = System.Drawing.Color.Orange;
             this.btntimes.FlatAppearance.BorderSize = 0;
             resources.ApplyResources(this.btntimes, "btntimes");
             this.btntimes.ForeColor = System.Drawing.Color.White;
@@ -230,7 +230,7 @@
             // 
             // btndivide
             // 
-            this.btndivide.BackColor = System.Drawing.Color.Gold;
+            this.btndivide.BackColor = System.Drawing.Color.Orange;
             this.btndivide.FlatAppearance.BorderSize = 0;
             resources.ApplyResources(this.btndivide, "btndivide");
             this.btndivide.ForeColor = System.Drawing.Color.White;

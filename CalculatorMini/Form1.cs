@@ -21,16 +21,26 @@ namespace CalculatorMini
         {
             InitializeComponent();
             labelDisplay.Text = "0";
-            RoundButtonCorners(btn0, 20);
-            RoundButtonCorners(btn1, 20);
-            RoundButtonCorners(btn2, 20);
-            RoundButtonCorners(btn3, 20);
-            RoundButtonCorners(btn4, 20);
-            RoundButtonCorners(btn5, 20);
-            RoundButtonCorners(btn6, 20);
-            RoundButtonCorners(btn7, 20);
-            RoundButtonCorners(btn8, 20);
-            RoundButtonCorners(btn9, 20);
+            RoundButtonCorners(btn0, 55);//gomb neve és lekekített érték megadása
+            RoundButtonCorners(btn1, 55);
+            RoundButtonCorners(btn2, 55);
+            RoundButtonCorners(btn3, 55);
+            RoundButtonCorners(btn4, 55);
+            RoundButtonCorners(btn5, 55);
+            RoundButtonCorners(btn6, 55);
+            RoundButtonCorners(btn7, 55);
+            RoundButtonCorners(btn8, 55);
+            RoundButtonCorners(btn9, 55);
+            RoundButtonCorners(btnvesszo, 55);
+            RoundButtonCorners(btnC, 55);
+            RoundButtonCorners(btnCA, 55);
+            RoundButtonCorners(btndivide, 55);
+            RoundButtonCorners(btnequal, 55);
+            RoundButtonCorners(btnminus, 55);
+            RoundButtonCorners(btnplus, 55);
+            RoundButtonCorners(btnplusminus, 55);
+            RoundButtonCorners(btnsquare, 55);
+            RoundButtonCorners(btntimes, 55);
 
         }
         private void RoundButtonCorners(Button button, int radius)
@@ -45,6 +55,7 @@ namespace CalculatorMini
             path.AddArc(rect.X + rect.Width - radius, rect.Y + rect.Height - radius, radius, radius, 0, 90);
             path.AddArc(rect.X, rect.Y + rect.Height - radius, radius, radius, 90, 90);
             path.CloseAllFigures();//sarok lekerekítés
+
             button.Region = new Region(path);//gomb sarokká tétele
         }
 
